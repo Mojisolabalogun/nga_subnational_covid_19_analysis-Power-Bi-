@@ -20,7 +20,6 @@ project objective:
 ![COVID 19](https://github.com/user-attachments/assets/4bdc757f-8b1d-4209-b546-1d9f28cdd413)
 ![COVID 19 (2)](https://github.com/user-attachments/assets/b34af549-120f-42cb-80cd-2941798fbcac)
 
-
  Project insight
  1. Contamination: A total of 253 contamination cases were reported across 38 regions.
  2. Demographic Breakdown: Men accounted for 22 contamination cases, while women accounted for 39 cases. However, the majority of contamination cases (192) had unspecified gender.
