@@ -11,8 +11,11 @@ project objective:
  2.  Which region in Nigeria has the highest number of contaminated cases?
  3.  Which region in Nigeria has the highest number of contamination cases with unspecified gender?
  4.  Which month had the highest record of  contamination?
- 5.  What is the monthly and regional record of death? copy link to dashboad
-  Process
+ 5.  What is the monthly and regional record of death? 
+  
+  - Dashboard interaction <a href='NIGERIA SUB-NATIONAL COVID 19.pbix'>view dashboad</a>
+  
+  ## Process
  . I made use of microsoft excel to change my headings to English.
  . Created month column.
  . Power Bi was my major tool for cleaning and transforming my data and building my dashboard. 
