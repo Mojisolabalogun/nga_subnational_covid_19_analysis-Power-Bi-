@@ -4,7 +4,7 @@ project objective:
  
  dataset used
 
- <a href'https://github.com/Mojisolabalogun/nga_subnational_covid_19_analysis-Power-Bi-/commit/3fe7aa9c8d7861df5bbc67b2a8e3febb32f21b5e#diff-bd38a591f450ae610337ec4865e8fdf0d93841d54cae9488c90a0de4d7b60b3b)
+ - <a href-'https://github.com/Mojisolabalogun/nga_subnational_covid_19_analysis-Power-Bi-/commit/3fe7aa9c8d7861df5bbc67b2a8e3febb32f21b5e#diff-bd38a591f450ae610337ec4865e8fdf0d93841d54cae9488c90a0de4d7b60b3b)
 
  ##questions
  1.  Which region in Nigeria has the lowest record of recovery from contamination?
