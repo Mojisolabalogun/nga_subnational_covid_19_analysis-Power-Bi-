@@ -19,6 +19,7 @@ project objective:
  . I made use of microsoft excel to change my headings to English.
  . Created month column.
  . Power Bi was my major tool for cleaning and transforming my data and building my dashboard. 
+ 
  Dashboard
 ![COVID 19](https://github.com/user-attachments/assets/4bdc757f-8b1d-4209-b546-1d9f28cdd413)
 ![COVID 19 (2)](https://github.com/user-attachments/assets/b34af549-120f-42cb-80cd-2941798fbcac)
